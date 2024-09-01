@@ -1,0 +1,25 @@
+---
+id: rexml-rubykaigi-2024-followup
+base_name: rexml-rubykaigi-2024-followup
+tags:
+- ruby
+- rexml
+presentation_date:
+presentation_start_time:
+presentation_end_time:
+version: 1.0.0
+licenses: []
+slideshare_id:
+speaker_deck_id:
+vimeo_id:
+youtube_id:
+width: 1920
+height: 1080
+source_code_uri:
+author:
+  markup_language: :markdown
+  name: NAITOH Jun
+  email: naitoh@gmail.com
+  rubygems_user: naitoh
+  slideshare_user:
+  speaker_deck_user:
